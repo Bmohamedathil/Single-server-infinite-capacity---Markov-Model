@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+![240579349-2960ee3e-7325-4e09-85e1-ae816ceaaab3](https://github.com/Bmohamedathil/Single-server-infinite-capacity---Markov-Model/assets/119560261/1a82fab7-51e7-4436-903a-9a8eb4f6db10)# Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -17,8 +17,10 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![imAGE](2.png)
 
 ## Experiment:
-![image](https://github.com/Bmohamedathil/Single-server-infinite-capacity---Markov-Model/assets/119560261/5cf8d343-c4d1-431a-b139-bc0a357acd3a)
- 
+ ![240579349-2960ee3e-7325-4e09-85e1-ae816ceaaab3](https://github.com/Bmohamedathil/Single-server-infinite-capacity---Markov-Model/assets/119560261/7e2d333d-ac78-42c8-becd-513078ca8fbd)
+ ![240579443-f5b111fa-a1b3-47ce-b862-a071560beec0](https://github.com/Bmohamedathil/Single-server-infinite-capacity---Markov-Model/assets/119560261/b5878f1f-2abf-442f-a88a-3767413ce3df)
+
+
 ## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
